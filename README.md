@@ -1,6 +1,6 @@
 # n8n-automatic-email-sender
 
-An automated cold email workflow built using :contentReference[oaicite:0]{index=0}, :contentReference[oaicite:1]{index=1}, and :contentReference[oaicite:2]{index=2}. This workflow helps send personalized cold emails at scale using randomized templates.
+An automated cold email workflow. This workflow helps send personalized cold emails at scale using randomized templates.
 
 ## Features
 
